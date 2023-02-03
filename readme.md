@@ -17,7 +17,7 @@ O Explorer é um programa completo que reúne tudo o que você precisa para dese
 <br>
 
 <p align="center">
-  <img alt="Projeto 03 - Desafio 01 - Mentoria" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto 03 - Desafio 01 - Mentoria" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
