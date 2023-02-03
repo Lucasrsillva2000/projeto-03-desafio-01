@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto 03 é a criação de um formulário utilizando HTML e CSS.
 
-- [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-03-desafio-01/)
+- [Visite o projeto online](https://lucasrsillva2000.github.io/projeto-03-desafio-01/)
 
 ## 🔖 Layout
 
